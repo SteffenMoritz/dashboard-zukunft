@@ -5,9 +5,10 @@ account: steffen-moritz
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4556779
-bundleId: 5010224
+bundleId: 5010630
 url: https://stmo.shinyapps.io/dashboard-zukunft/
-when: 1631064466.9334
-lastSyncTime: 1631064466.9335
+when: 1631071775.29554
+lastSyncTime: 1631071775.29556
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: initial_data

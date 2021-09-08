@@ -196,7 +196,7 @@ ui <-
         Bevoelkerungsstand + `Bruttowertschoepfung in jeweiligen Preisen, insgesamt`"),
             tags$br(),
             tags$br(),
-            tags$img(src = "ml.png", width = "600px", height = "200px")
+            tags$img(src = "ML.png", width = "600px", height = "200px")
           )
         )
       ),
