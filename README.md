@@ -13,6 +13,10 @@ By Team C for Climate (Denis, Laura, Maria, Steffen)
 Our dashboard can be found under: https://stmo.shinyapps.io/dashboard-zukunft/
 (or www.dashboard-zukunft.de )
 
+Give the app some time to get started (as it is only hosted on the free tier of shinyapps.io)
+After the initial starting phase it should run rather fluid.
+
+
 ### Screenshots
 Here are some screenshots of the web application:
 
